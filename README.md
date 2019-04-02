@@ -32,6 +32,37 @@ else:
        return 'negative'
 Finally, parsed tweets are returned. Then, we can do various type of statistical analysis on the tweets. For example, in above program, we tried to find the percentage of positive, negative and neutral tweets about a query.
 
+OUTPUT:
+Positive tweets percentage: 22 %
+Negative tweets percentage: 19 %
+Neutral tweets percentage: 58 % \ 
+
+
+Positive tweets:
+Check out what I just added to my closet on Poshmark: Air Jordan 1 Retro High OG BG. https://t.co/lweUCRWWH0 via @poshmarkapp #shopmycloset
+Check out what I just added to my closet on Poshmark: HUGE Skinceuticals Deluxe Sample Bundle.… https://t.co/QWkiNHLhE3
+Check out what I just added to my closet on Poshmark: GAP maternity NWT velvet light sweatshirt.… https://t.co/0ROPm5JnOl
+Check out what I just added to my closet on Poshmark: Loft Orange V-Neck Sleeveless Tank Top Blouse.… https://t.co/7MH7KzjviX
+Check out what I just added to my closet on Poshmark: Tank top. https://t.co/PkIvkYwwHu via @poshmarkapp #shopmycloset
+Check out what I just added to my closet on Poshmark: Satin bow high heels. https://t.co/y1iZjTasvu via @poshmarkapp #shopmycloset
+Check out what I just added to my closet on Poshmark: Polo Ralph Lauren War General Battle Necktie Tie.… https://t.co/vVv74HxkR9
+Check out what I just added to my closet on Poshmark: Open toe high heels. https://t.co/hLcy3eyGia via @poshmarkapp #shopmycloset
+Check out what I just added to my closet on Poshmark: 🌻Welcome to my closet!🌻. https://t.co/OBKTFdezIJ via @poshmarkapp #shopmycloset
+Check out what I just added to my closet on Poshmark: New Era UNC fitted hat. https://t.co/NMJY3qnf0n via @poshmarkapp #shopmycloset
+
+
+Negative tweets:
+Check out what I just added to my closet on Poshmark: No Boundaries Black Distressed Cut Off Shorts.… https://t.co/Xfk3msagh8
+Check out what I just added to my closet on Poshmark: GOODYEAR Womens Hiking Boot Aurora Safety Black.… https://t.co/hxwqX4l3fs
+I just discovered this on Poshmark: NWT Marciano Peach &amp; Black Butterfly Batwing Dress. https://t.co/OwLGo4jGtk via @poshmarkapp
+Check out what I just added to my closet on Poshmark: Tie - Tommy Hilfiger blue and green striped.… https://t.co/4QREI2c1GA
+RT @ShopMillerThyme: Check out what I just added to my closet on Poshmark: Kate Spade black &amp; white striped satchel crossbody. https://t.co…
+Check out what I just added to my closet on Poshmark: Ann Taylor Loft black and white damask skirt.… https://t.co/4XZ60G20Ey
+Check out what I just added to my closet on Poshmark: Birkenstock Tula Single Strap Turquoise Sandals 37.… https://t.co/MbQhMDKcG8
+Check out what I just added to my closet on Poshmark: Victoria’s Secret PINK Lightly Lined Bra Small.… https://t.co/wqiVSFJ85X
+Check out what I just added to my closet on Poshmark: Gap Black Corduroy Mini Skirt Size 28/6.… https://t.co/twIlEdyRrU
+Check out what I just added to my closet on Poshmark: Gap Remix Graphic Logo T-Shirt Size Small.… https://t.co/o1LWzBYosV
+
 References:
 
 http://www.ijcaonline.org/research/volume125/number3/dandrea-2015-ijca-905866.pdf
