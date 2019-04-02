@@ -2,7 +2,7 @@
 """
 Created on Sun Jan 20 22:44:41 2019
 
-@author: adhis
+@author: adhish
 """
 
 import re 
@@ -19,10 +19,10 @@ class TwitterClient(object):
 		Class constructor or initialization method. 
 		'''
 		# keys and tokens from the Twitter Dev Console 
-		consumer_key = 'TWKpBRdJkAKeF3FcSjaCKw2bD'
-		consumer_secret = 'PZAFgt5zUAzvFilR9Tfz8JmxGGIf6FPa4PuOEw9n0EH6yxwAEu'
-		access_token = '2900864838-jz6DQ4ANLCDo9T8xnGRqTULVCZQdXjdQa3tqlYX'
-		access_token_secret = 'Vqo5mDYCuyANimGNBiWIvwPKQCRJJSKGX72WPiozf4PVv'
+		consumer_key = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+		consumer_secret = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+		access_token = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+		access_token_secret = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 
 		# attempt authentication 
 		try: 
